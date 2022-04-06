@@ -64,7 +64,7 @@ header {
     text-align: center;
 }
 
-div {
+div.top wrapper {
     display: block;
 }
 
